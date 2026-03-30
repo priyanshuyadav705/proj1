@@ -1,0 +1,7 @@
+{
+  "prompt": "A high-end, cinematic close-up of an antique wooden museum entomology drawer meant to hold beautiful butterflies and beetles. However, 80 percent of the space is completely empty, containing only sharp steel pins casting long, haunting shadows against the stark white backing. Only a few scattered, faded insects remain in the corners. The composition should heavily emphasize the void and absence. Soft, dramatic, melancholic museum lighting. A visual metaphor for environmental loss. Photorealistic, macro photography.",
+  "model": "Gemini 3 Pro",
+  "dataset_name": "Worldwide decline of the entomofauna: A review of its drivers",
+  "dataset_url": "https://doi.org/10.1016/j.biocon.2019.01.020",
+  "insight": "The sheer scale of insect biomass loss leaves a haunting void in our ecosystems, represented by the empty pins of what we have already lost."
+}
