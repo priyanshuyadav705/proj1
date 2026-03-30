@@ -1,0 +1,6 @@
+{
+    "prompt": "A highly realistic, wide-angle photograph of a lush green public park. There is a series of scattered, fallen red autumn leaves on the grass. A paved stone walkway has been built across the grass, but instead of forming a gentle, sensible curve, the path zig-zags frantically and erratically at absurd, sharp angles, abruptly diverting itself just to perfectly intersect every single fallen red leaf. The resulting path is a chaotic, jagged mess that no one could smoothly walk on. Daylight, professional landscape photography. Visual metaphor for rigid memorization.",
+    "model": "Gemini 3 Pro",
+    "concept": "Overfitting",
+    "metaphor": "The smooth path is the true distribution; the scattered leaves are the noisy training data. A path that perfectly hits every leaf is utterly useless for actual walking."
+}
